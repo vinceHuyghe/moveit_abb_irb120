@@ -1,0 +1,7 @@
+controller_list:
+  - name: controller_follow_joint_trajectory
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: True
+    joints:
+      []
